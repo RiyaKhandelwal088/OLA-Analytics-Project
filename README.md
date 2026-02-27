@@ -34,7 +34,14 @@
         Daily ride volume and distance travelled trends over time.
     
     • 🎛️ Interactive Filters & Navigation    
-        Date slicers and multi-page dashboard navigation for deep-dive analysis . 
+        Date slicers and multi-page dashboard navigation for deep-dive analysis .
+
+    
+   5.  Screenshot / Demos
+
+
+      <img width="885" height="500" alt="image" src="https://github.com/user-attachments/assets/a4d6f244-2ee2-46af-ac80-328f2119bde7" />
+
 
 
 
