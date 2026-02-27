@@ -1,6 +1,6 @@
 # OLA-Analytics-Project
 
-1. Project Title  
+1. ** Project Title  **
    OLA Ride Analytics Dashboard – End-to-End Business Intelligence Project
 
 2.  Short Description  
