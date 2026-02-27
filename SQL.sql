@@ -4,15 +4,8 @@
   select * from bookings;
  SELECT COUNT(*) FROM bookings;
  
- ALTER TABLE bookings  
- DROP COLUMN MyUnknownColumn ;
- 
-  select * from bookings;
-
-
- 
-  ALTER TABLE bookings
-  MODIFY COLUMN Customer_ID VARCHAR(100) after Booking_ID;
+ ALTER TABLE bookings
+MODIFY COLUMN Customer_ID VARCHAR(100) after Booking_ID;
 
  
 -- 1. Retrieve all successful bookings:
