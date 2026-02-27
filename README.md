@@ -1,22 +1,19 @@
 # OLA-Analytics-Project
 
-Project Title
+1. Project Title  
+   OLA Ride Analytics Dashboard – End-to-End Business Intelligence Project
 
-OLA Ride Analytics Dashboard – End-to-End Business Intelligence Project
+2.  Short Description  
+    This project is an interactive OLA Ride Analytics Dashboard designed to analyze ride bookings, revenue, cancellations, vehicle            performance, and customer ratings. It provides actionable insights into operational efficiency, customer behavior, and revenue trends     using visually intuitive and data-driven dashboards.
 
-📝 Short Description
+3.  Tech Stack
+    Power BI
+    DAX (Data Analysis Expressions)
+    Data Modeling
+    Data Cleaning & Transformation
+    Business Intelligence & Analytics
 
-This project is an interactive OLA Ride Analytics Dashboard designed to analyze ride bookings, revenue, cancellations, vehicle performance, and customer ratings.
-It provides actionable insights into operational efficiency, customer behavior, and revenue trends using visually intuitive and data-driven dashboards.
-
-Tech Stack
-Power BI
-DAX (Data Analysis Expressions)
-Data Modeling
-Data Cleaning & Transformation
-Business Intelligence & Analytics
-
- Key Features
+4.  Key Features
 📊 Overall Ride Performance KPIs
 Total Bookings, Total Revenue, Successful Rides, Cancelled Rides, and Cancellation Rate
 🚗 Vehicle Type Analysis
