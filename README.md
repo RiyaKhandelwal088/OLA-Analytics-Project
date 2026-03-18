@@ -1,4 +1,4 @@
-# OLA-Analytics-Project
+# OLA-Analytics-Project-PowerBI
 
 ### 1.  Project Title  
    OLA Ride Analytics Dashboard – End-to-End Business Intelligence Project
